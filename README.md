@@ -59,12 +59,8 @@ Site Reliability Engineer with expertise in **Linux, Kubernetes, AWS, and monito
 
 <h2> 🤝 Connect with me:</h2>
 
-[<img align="left" alt="Dinbandhu | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Dinbandhu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Dinbandhu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Dinbandhu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/dinbandhu
-[youtube]: https://www.youtube.com/c/dinbandhu
-[instagram]: https://www.instagram.com/dinbandhu/
-[linkedin]: https://linkedin.com/in/dinbandhu
+[linkedin]: www.linkedin.com/in/dinbandhu-kumar
